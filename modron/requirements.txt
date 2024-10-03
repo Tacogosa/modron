@@ -1,0 +1,5 @@
+# Required Libraries
+
+fillpdf (pip install fillpdf)
+requests (pip install requests)
+pytest (pip install pytest)
